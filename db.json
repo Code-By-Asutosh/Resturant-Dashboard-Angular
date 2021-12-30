@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "xyz resturant",
+      "email": "xyz@gmail.com",
+      "mobile": "123456987",
+      "address": "rasulgarh",
+      "services": "chicken"
+    },
+    {
+      "id": 2,
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "mobile": "456321789",
+      "address": "acharya vihar",
+      "services": "butter chicken"
+    },
+    {
+      "id": 3,
+      "name": "hotel sai swad",
+      "email": "nayak@gmail.com",
+      "mobile": "789654123",
+      "address": "vani vihar",
+      "services": "paneer"
+    },
+    {
+      "id": 4,
+      "name": "hotel itc",
+      "email": "itc@gmail.com",
+      "mobile": "753159852",
+      "address": "ig square",
+      "services": "chicken tikka"
+    },
+    {
+      "id": 5,
+      "name": "unknown",
+      "email": "unknown@gmail.com",
+      "mobile": "0987654321",
+      "address": "jaydev vihar",
+      "services": "mutton korma"
+    }
+  ],
+  "signup": [
+    {
+      "name": "asdf",
+      "email": "asdf@gmail.com",
+      "mobile": "446151",
+      "password": "123456789",
+      "id": 1
+    },
+    {
+      "name": "asutosh",
+      "email": "nayak@gmail.com",
+      "mobile": "6372158889",
+      "password": "asdf@1234",
+      "id": 2
+    },
+    {
+      "name": "asutosh",
+      "email": "nayakasutosh@gmail.com",
+      "mobile": "123456789",
+      "password": "12345678",
+      "id": 3
+    },
+    {
+      "name": "asutosh",
+      "email": "nayakanuraj@gmail.com",
+      "mobile": "789632145",
+      "password": "123456",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
